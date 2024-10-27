@@ -1,0 +1,7 @@
+.contact {
+    background-color: rgb(255, 0, 191);
+    color: rgb(182, 60, 87);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
